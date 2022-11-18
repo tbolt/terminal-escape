@@ -14,11 +14,6 @@ Fun game with one goal... escape the terminal!
 
 ## CLI Usage
 
-```
-terminal escape
-Fun adventure game
-
-
 ## Acknowledgments
+
 [tui-rs](https://github.com/fdehau/tui-rs) - great TUI library for Rust
-```
